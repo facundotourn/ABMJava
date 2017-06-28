@@ -1,0 +1,8 @@
+39212419	Tourn Facundo                 	03/02/1999	M	09/01/2010	12	A	7.9
+38696222	Gallardo Marcelo              	17/04/1970	M	16/01/2015	26	B	6.9
+56952369	Gutierrez Macarena            	20/06/1992	F	15/03/2009	29	A	8.6
+42356896	Gonzalez Federico             	08/01/1993	M	13/06/2015	12	B	7.6
+28956369	Lopez Julieta                 	15/01/1982	F	09/03/2006	60	B	8.3
+95659565	Gutierrez Macarena            	14/06/1900	F	14/02/2013	12	A	6.3
+39962356	Echeverría Gastón             	13/01/1900	M	13/01/2013	26	A	9.1
+15489531	Lopez Gustavo                 	15/03/1990	M	20/06/2012	09	A	2.9
